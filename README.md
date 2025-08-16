@@ -51,3 +51,12 @@ This project allows customers to explore Kerala tourism, book packages, make pay
    ```bash
    git clone https://github.com/afna12/Kerala-Tour-Package-Management-System.git
    cd Kerala-Tour-Package-Management-System/backend
+---
+
+## 🏃 How to Run the Project
+
+Follow these steps to run the **Kerala Tour and Package Management System** on your local machine:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/afna12/Kerala-Tour-Package-Management-System.git
